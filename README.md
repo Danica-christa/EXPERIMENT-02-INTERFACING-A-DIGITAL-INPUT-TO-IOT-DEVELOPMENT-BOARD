@@ -139,11 +139,11 @@ void IRPAIR()
 
 ## OUTPUT
 
-## DETECTION OFF:
+## NOT DETECTED:
 
 ![WhatsApp Image 2025-04-07 at 13 51 27_0102e862](https://github.com/user-attachments/assets/a3ccdd8f-2aa5-43a7-a9f8-c67e0a240fad)
 
-## DETECTION ON:
+## DETECTED:
 
 ![WhatsApp Image 2025-04-07 at 13 51 27_23e4558e](https://github.com/user-attachments/assets/d96d21cc-c17b-4f40-a240-a56599047689)
 
